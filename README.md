@@ -1,1 +1,1 @@
-# Business-intelligence-Power-B.i
+# Dashboard-Power-B.i
